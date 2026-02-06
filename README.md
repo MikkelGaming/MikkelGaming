@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MikkelGaming.
-- 👀 I’m interested in C#, GmodLua/Gmod and Game Development.
+- I’m interested in C#, Rust, GmodLua/Gmod and Game Development.
 - 🏫 I'm currently studying Computer Science in Denmark.
-- 🥅 I’m currently working with GIS software.
+- I’m currently working with GIS software.
 - 📫 You can reach me via Discord: @MrSmileyDK, Let me know you came from my Github.
 
 <!---
